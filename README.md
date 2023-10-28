@@ -1,6 +1,6 @@
 # TheFireDevs - Repositório de Estudos
 
-Bem-vindo ao repositório TheFireDevs! Somos uma organização dedicada a compartilhar recursos de estudo e aprendizado em diversas áreas da tecnologia. Este repositório é o nosso espaço central para armazenar e compartilhar materiais úteis que podem ajudar a comunidade a aprimorar suas habilidades e conhecimentos.
+Bem-vindo ao repositório TheFireDevs! Somos um grupo a compartilhar recursos de estudo e aprendizado em diversas áreas da tecnologia. Este repositório é o nosso espaço central para armazenar e compartilhar materiais úteis que podem ajudar a comunidade a aprimorar suas habilidades e conhecimentos.
 
 ## Colaboradores
 
